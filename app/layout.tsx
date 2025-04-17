@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'wedding-invitation',
   description: 'Creado por Brad',
-  generator: 'v0.dev',
+  generator: 'next',
 }
 
 export default function RootLayout({
